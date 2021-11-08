@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bhavya
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on Git
 - 📫 How to reach me bhavyagg27@gmail.com
 
 <!---
