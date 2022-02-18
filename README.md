@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavya
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning ROS
+- 🌱 I’m currently doing research in legged robots and autonomous systems
 - 📫 How to reach me bhavyagg27@gmail.com
 
 <!---
